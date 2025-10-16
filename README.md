@@ -8,6 +8,4 @@ There are still many imperfections in both the codes and the paper. I would be h
 
 [Video Link-Youtube](https://youtu.be/pw3G6_XKbQA)
 
-For more information, please visit our website <https://gaozhen16.github.io>.
-
 [^1]: [Z. Li, Z. Gao and T. Li, "Sensing User's Channel and Location with Terahertz Extra-Large Reconfigurable Intelligent Surface under Hybrid-Field Beam Squint Effect," in IEEE Journal of Selected Topics in Signal Processing.](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10130575&isnumber=5418892)
